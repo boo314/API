@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\WebApplication1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Piotr\source\repos\WebApplication1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Piotr\source\repos\WebApplication1\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\source\repos\WebApplication1\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\WebApplication1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Piotr\source\repos\WebApplication1\BusinessLogic\obj\Debug\BusinessLogic.pdb
